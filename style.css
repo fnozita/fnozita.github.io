@@ -326,6 +326,9 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .h4-bloc-1-style{
 	line-height:25px;
 }
+.label-style{
+	width:100%;
+}
 
 /* = Colour
 -------------------------------------------------------------- */
